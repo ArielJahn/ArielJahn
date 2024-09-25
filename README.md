@@ -2,5 +2,5 @@
 Sou o Ariel (isso é so um teste)
 
 - 🔭 Sou estudante do Colégio Universitário Unidavi
-- 🌱 Estou aprendendo PHP
+- 🌱 PHP, JS, SQL
 - 🤔 16/03/2006
