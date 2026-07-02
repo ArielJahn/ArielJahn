@@ -1,4 +1,4 @@
-<h1 align="center">Ariel</h1>
+<h1 align="center">Ariel Jahn</h1>
 <p align="center"><b>Desenvolvedor Fullstack</b> · Web · APIs · Banco de Dados</p>
 
 ---
