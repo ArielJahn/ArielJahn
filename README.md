@@ -41,7 +41,3 @@ Desenvolvedor **fullstack** com experiência em aplicações web. Curso **Sistem
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arieljahn&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
-### Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-jahn-122911314/)
